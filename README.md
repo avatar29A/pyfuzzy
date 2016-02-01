@@ -6,7 +6,7 @@ Port pyfuzzy on Python3 (include antlr3 v.3.1.4)
 * pyfuzzy: http://pyfuzzy.sourceforge.net/
 * antlr3: http://www.antlr3.org/
 
-# Installaction
+# Installation
 
 Move folders antlr3 and pyfuzzy in %PYTHON_PATH%\site-packages\
 
